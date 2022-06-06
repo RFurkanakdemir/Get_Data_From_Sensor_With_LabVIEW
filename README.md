@@ -55,7 +55,7 @@ void loop()
 
 ## Labwiev Görselleri ##
 *Labview Front Paneli*
-https://drive.google.com/file/d/1J91extLnc7UoXQ86piGZU80naYX26jYJ/view?usp=sharing
+![ÖN PANEL](https://user-images.githubusercontent.com/101727667/172136488-dc9d431e-07c7-48d8-85bf-fe59b9bcfa0c.PNG)
 
 *Labview Blok Diyagramı*
 (https://drive.google.com/file/d/1O4bfz09QpJNrd5YybHd7UZc4xHhiODJh/view?usp=sharing)
