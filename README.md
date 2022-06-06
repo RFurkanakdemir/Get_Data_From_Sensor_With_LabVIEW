@@ -15,7 +15,7 @@ HC-SR04 | Mesafe
 ## Sensör Bağlantıları ##
 HC-SR04
 
-<img src="https://user-images.githubusercontent.com/74202445/171967108-e6ca7722-4119-4477-9d81-35fcf6ed378d.png" width="350" height="300" >
+![image](https://user-images.githubusercontent.com/101727667/172135493-fdf5222c-c977-49db-af14-450cef4b9014.png)
 
 
 
