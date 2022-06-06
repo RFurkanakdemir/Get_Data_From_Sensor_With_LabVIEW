@@ -1,6 +1,6 @@
 # LabVIEW-ile-sensorden-veri-alma (Get data from sensor with LabVIEW)
 bir sensör verisini LabVIEW a gönderme ve bu veri için arayüz oluşturma uygulaması
-application of sending and interfacing a sensor data to LabVIEW
+*application of sending and interfacing a sensor data to LabVIEW
 
 
 ## Sensörler ##
