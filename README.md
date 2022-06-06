@@ -1,5 +1,4 @@
-# LabVIEW-ile-sensorden-veri-alma
-# Get data from sensor with LabVIEW
+# LabVIEW-ile-sensorden-veri-alma (Get data from sensor with LabVIEW)
 bir sensör verisini LabVIEW a gönderme ve bu veri için arayüz oluşturma uygulaması
 application of sending and interfacing a sensor data to LabVIEW
 
@@ -11,15 +10,15 @@ HC-SR04 | Mesafe (Distance)
 
 
 
-## Sensör Bağlantıları ##
-## Sensor Connection ##
+## Sensör Bağlantıları (Sensor Connection) ##
+
 HC-SR04
 
 ![image](https://user-images.githubusercontent.com/101727667/172135493-fdf5222c-c977-49db-af14-450cef4b9014.png)
 
 
-## Arduino Kodu ##
-## Arduino Code ##
+## Arduino Kodu (Arduino Code) ##
+
 
 ```ruby
 int trigPin = 50; /* Sensorun trig pini Arduinonun 50 numaralı ayağına bağlandı */
@@ -55,8 +54,7 @@ void loop()
   delay(500); 
 }
 ```
-## LabVIEW Görselleri ##
-## LabVIEW İmages ##
+## LabVIEW Görselleri (LabVIEW İmages) ##
 *Labview Front Paneli*
 ![ÖN PANEL](https://user-images.githubusercontent.com/101727667/172136488-dc9d431e-07c7-48d8-85bf-fe59b9bcfa0c.PNG)
 
