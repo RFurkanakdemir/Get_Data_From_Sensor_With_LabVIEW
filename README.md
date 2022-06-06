@@ -20,7 +20,7 @@ HC-SR04
 
 ## Ardunio Kodu ##
 
-ruby
+```ruby
 int trigPin = 50; /* Sensorun trig pini Arduinonun 50 numaralı ayağına bağlandı */
 int echoPin = 51;  /* Sensorun echo pini Arduinonun 51 numaralı ayağına bağlandı */
 
@@ -53,7 +53,7 @@ void loop()
     
   delay(500); 
 }
-
+'''
 ## Labwiev Görselleri ##
 *Labview Front Paneli*
 ![ÖN PANEL](https://user-images.githubusercontent.com/101727667/172136488-dc9d431e-07c7-48d8-85bf-fe59b9bcfa0c.PNG)
