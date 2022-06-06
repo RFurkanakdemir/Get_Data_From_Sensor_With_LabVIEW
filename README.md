@@ -1,5 +1,5 @@
 # LabVIEW-ile-sensorden-veri-alma (Get data from sensor with LabVIEW)
-bir sensör verisini LabVIEW a gönderme ve bu veri için arayüz oluşturma uygulaması\n
+bir sensör verisini LabVIEW a gönderme ve bu veri için arayüz oluşturma uygulaması<br/>
 application of sending and interfacing a sensor data to LabVIEW
 
 
@@ -61,5 +61,5 @@ void loop()
 *Labview Blok Diyagramı*
 ![LabView Yazılım](https://user-images.githubusercontent.com/101727667/172137324-de04b349-d4e3-4559-a8de-c03135123534.PNG)
 
-*İncelediğiniz için teşekkürler\n
+*İncelediğiniz için teşekkürler<br/>
 *thanks for viewing
