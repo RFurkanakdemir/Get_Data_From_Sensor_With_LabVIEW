@@ -58,6 +58,6 @@ void loop()
 ![ÖN PANEL](https://user-images.githubusercontent.com/101727667/172136488-dc9d431e-07c7-48d8-85bf-fe59b9bcfa0c.PNG)
 
 *Labview Blok Diyagramı*
-(https://drive.google.com/file/d/1O4bfz09QpJNrd5YybHd7UZc4xHhiODJh/view?usp=sharing)
+![LabView Yazılım](https://user-images.githubusercontent.com/101727667/172137324-de04b349-d4e3-4559-a8de-c03135123534.PNG)
 
-*İncelediğiniz için teşekkürler, diğer repository içeriklerini profilimden inceleyebilirsiniz :zap:* read me satırlar
+*İncelediğiniz için teşekkürler
